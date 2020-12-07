@@ -1,1 +1,2 @@
 # PokeMeowSelfbot
+Just for updates
