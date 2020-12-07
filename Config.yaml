@@ -1,0 +1,21 @@
+# Authentication 
+Auth:
+    Token: "Your token goes here"
+
+# Catcha Settings
+Captcha:
+    PlayAudio: True
+    SendNotification: True
+
+# What type of ball to use on each rarity
+# pb = Pokeball
+# gb = Greatball
+# ub = Ultraball
+# mb = Masterball
+# None = Dont catch
+Catch:
+    Common: pb
+    Uncommon: pb
+    Rare: gb
+    SuperRare: ub
+    Legendary: mb
