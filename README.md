@@ -8,6 +8,11 @@ Author: [Parrot._#0175](https://youtube.com/c/Parrots)
 
 # Only use this selfbot in private servers such as ones with only you and the bot in, the selfbot cant detect if you spawn the pokemon or if someone else does so if you use it in public servers it will try to catch pokemon that other people spawn in
 
+# Changelog
+V1.2: <br />
+Added catch method for Shiny Pokemon <br />
+Added Help and Feedback commands <br />
+
 # How to use
 • Download the .rar file from the [download link in download.txt](https://github.com/ParrotSecurity9/PokeMeowSelfbot/main/download.txt) <br />
 • Unzip the .rar file <br />
